@@ -2,6 +2,8 @@
 A simple approach to solve the knight tour problem using backtracking algorithm.
 This program has been written in C.
 
+Another program named knight's shortest path has been written in Python using Queue Data Structure and BFS Algorithm.
+
 We start by moving the knight and if the knight reaches to a cell from where there is no further cell available to move and we have not reached to the solution yet 
 (not all cells are covered), then we backtrack and change our decision and choose a different path.
 
@@ -17,3 +19,5 @@ Note:
 
 For much efficent approach than backtracking we can use Warnsdroff's Algorithm using C++ and we can even find the minimum number of steps to reach the target.
 But all these can be easily done in C++,Java or Python
+
+
