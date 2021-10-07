@@ -15,7 +15,7 @@ For example, if we visit a cell in the second step, it will have a value of 2.
 
 We will start the tour of the knight from the cell (1, 1) as its first step. 
 
-Note: 
+**Note:**
 
 For much efficent approach than backtracking we can use Warnsdroff's Algorithm using C++ and we can even find the minimum number of steps to reach the target.
 But all these can be easily done in C++,Java or Python
