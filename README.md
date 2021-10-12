@@ -20,4 +20,9 @@ We will start the tour of the knight from the cell (1, 1) as its first step.
 For much efficent approach than backtracking we can use Warnsdroff's Algorithm using C++ and we can even find the minimum number of steps to reach the target.
 But all these can be easily done in C++,Java or Python
 
+**FINDING THE SHORTEST PATH USING BFS**
+
+The above file written in python is used to find the shortest path to be travelled by the knight to reach the destination.
+It is based on Queue data structure and Breadth First Search(BFS) algorithm.
+
 
