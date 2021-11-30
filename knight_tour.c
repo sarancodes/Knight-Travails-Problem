@@ -66,6 +66,7 @@ int start_knight_tour()
 
 int main()
 {
+    printf("Knight Travails Problem\n");
     printf("%d\n", start_knight_tour());
-    return 0;
+    return 0; 
 }
